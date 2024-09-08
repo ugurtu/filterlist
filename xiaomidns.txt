@@ -507,3 +507,4 @@ tracking.intl.miui.com
 graph.facebook.com
 kinesis.eu-west-1.amazonaws.com
 pubsub.googleapis.com
+awsde0.fds.api.xiaomi.com
