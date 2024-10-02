@@ -2,11 +2,11 @@
 # 0.0.0.0 20.33.1.220
 
 
-# WLAN -> Essential
+# WLAN -> Not Essential connects to it!
 de.ot.io.mi.com
 
-# Not working if commented in! 
-# de.ots.io.mi.com
+# Not working if commented in! -> Essential!!!
+de.ots.io.mi.com
 
 # MAP
 # awsde0.fds.api.xiaomi.com
