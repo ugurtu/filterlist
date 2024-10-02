@@ -3,8 +3,10 @@
 
 
 # WLAN -> Essential
-# de.ot.io.mi.com
-de.ots.io.mi.com
+de.ot.io.mi.com
+
+# Not working if commented in! 
+# de.ots.io.mi.com
 
 # MAP
 # awsde0.fds.api.xiaomi.com
