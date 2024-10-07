@@ -1,0 +1,10 @@
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/trackingtelemetry/spy.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/trackingtelemetry/notrack-blocklist.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/trackingtelemetry/hosts
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/trackingtelemetry/firstparty-trackers-hosts.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/trackingtelemetry/android-tracking.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/trackingtelemetry/ads-and-tracking-extended.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/trackingtelemetry/SmartTV.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/trackingtelemetry/Prigent-Ads.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/trackingtelemetry/Easyprivacy.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/trackingtelemetry/AmazonFireTV.txt
