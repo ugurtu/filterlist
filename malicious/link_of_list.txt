@@ -1,0 +1,14 @@
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/malicious/phishing_army_blocklist_extended.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/malicious/index.html
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/malicious/phishing-filter-hosts.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/malicious/notrack-malware.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/malicious/main-blacklist.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/malicious/latestdomains.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/malicious/hosts.1
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/malicious/hosts
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/malicious/RPiList-Phishing.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/malicious/RPiList-Malware.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/malicious/Prigent-Malware.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/malicious/Prigent-Crypto.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/malicious/Mandiant_APT1_Report_Appendix_D.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/malicious/AntiMalwareHosts.txt
