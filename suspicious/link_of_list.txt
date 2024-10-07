@@ -1,0 +1,10 @@
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/suspicious/KADhosts.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/suspicious/SNAFU.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/suspicious/hosts
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/suspicious/hosts-file.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/suspicious/hosts.1
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/suspicious/hosts.2
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/suspicious/hosts.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/suspicious/neohostsbasic.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/suspicious/spammers.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/suspicious/w3kbl.txt
