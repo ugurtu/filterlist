@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/advertising/serverlist.php%3Fhostformat%3Dhosts%26showintro%3D0%26mimetype%3Dplaintext
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/advertising/hosts.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/advertising/hosts.2
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/advertising/hosts.1
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/advertising/hosts
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/advertising/adservers.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/advertising/Easylist.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/advertising/Admiral.txt
+https://raw.githubusercontent.com/ugurtu/filterlist/refs/heads/main/advertising/AdguardDNS.txt
